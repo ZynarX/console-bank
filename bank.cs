@@ -1,7 +1,7 @@
 using System;
 using System.Threading;
 
-namespace ConsoleBank
+namespace Bank
 {
     class BankAccount
     {
